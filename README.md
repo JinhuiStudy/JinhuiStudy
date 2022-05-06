@@ -5,7 +5,7 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 [![TWITTER](https://img.shields.io/badge/-TWITTER-222222?style=for-the-badge&logo=TWITTER)](https://twitter.com/)
 
 <p align="center">
-  <img alt="Coder Image" src="https://raw.githubusercontent.com/Parkjinhui/Parkjinhui/master/assets/code.gif">
+  <img alt="Coder Image" src="https://raw.githubusercontent.com/JinhuiStudy/JinhuiStudy/master/assets/code.gif">
 </p>
 
 <!--START_SECTION:Skills & Endorsements-->
@@ -17,8 +17,8 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 ![FlUTTER](https://img.shields.io/badge/-FlUTTER-222222?style=for-the-badge&logo=FlUTTER)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParkJinhui&count_private=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJinhui&count_private=true&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JinhuiStudy&count_private=true&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhuiStudy&count_private=true&show_icons=true&hide_border=true" />
 </p>
  
 
