@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi I'm Park Jinhui and I'm working in Busan with development.
 </br></br>
-[![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)](https://www.notion.so](https://highfalutin-giant-304.notion.site/cf923af656ff4cd294bdcadbca1fe80a)
+[![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)](https://highfalutin-giant-304.notion.site/cf923af656ff4cd294bdcadbca1fe80a)
 [![TWITTER](https://img.shields.io/badge/-TWITTER-222222?style=for-the-badge&logo=TWITTER)](https://twitter.com/)
 
 <p align="center">
