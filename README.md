@@ -121,7 +121,7 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 <!--START_SECTION:Skills & Endorsements-->
 ### Project
 
-#### 1. <a href="https://github.com/JinhuiStudy/spring-boot-project-conference">Conference</a>
+#### 1. Conference
 ##### Sub [1] <a href="https://github.com/JinhuiStudy/javascript-grapesjs-video-embed-manager-custom">grapes video costom[vimeo]</a>
 ##### Sub [2] <a href="https://github.com/JinhuiStudy/javascript-grapesjs-blocks-basic-custom">grapes Basic Block[vimeo]</a>
 
@@ -133,5 +133,5 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 
 
 프로젝트
-[1.개발을 하고 싶어요]Conference
+<a href="https://github.com/JinhuiStudy/spring-boot-project-conference">[1.Conference]</a>
 
