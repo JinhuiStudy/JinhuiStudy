@@ -8,6 +8,8 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
   <img alt="Coder Image" src="https://raw.githubusercontent.com/JinhuiStudy/JinhuiStudy/master/assets/code.gif">
 </p>
 
+---
+
 <!--START_SECTION:Skills & Endorsements-->
 ### Skills & Reference
 
@@ -16,13 +18,36 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 ![KOTLIN](https://img.shields.io/badge/-KOTLIN-222222?style=for-the-badge&logo=KOTLIN)
 ![FlUTTER](https://img.shields.io/badge/-FlUTTER-222222?style=for-the-badge&logo=FlUTTER)
 
-<p align="center">
+---
+ 
+
+### Project
+
+1.	[Conterence](https://github.com/JinhuiStudy/spring-boot-project-conference)
+	1.	[Grapes Video[vimeo] Plugin](https://github.com/JinhuiStudy/javascript-grapesjs-video-embed-manager-custom)
+	2. [Grapes Basic Block Plugin](https://github.com/JinhuiStudy/javascript-grapesjs-blocks-basic-custom)
+2. Codal
+	1. [Flutter](https://github.com/JinhuiStudy/flutter-project-codal)
+	2. [SpringBoot](https://github.com/JinhuiStudy/spring-boot-project-codal)
+	3. [React](https://github.com/JinhuiStudy/react-project-codal)
+3. [Coin-Trading](https://github.com/JinhuiStudy/spring-hilla) - Spring Hilla
+	1. [Spring Batch](https://github.com/JinhuiStudy/spring-batch) 
+	2. Spring dataflow
+		* [logger](https://github.com/JinhuiStudy/spring-dataflow-usage-logger)
+		* [processor](https://github.com/JinhuiStudy/spring-dataflow-usage-processor)
+		* [sender](https://github.com/JinhuiStudy/spring-dataflow-usage-sender)
+	3. [Batch & dataflow](https://github.com/JinhuiStudy/spring-dataflow-batch)	
+
+
+---
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JinhuiStudy&count_private=true&show_icons=true&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhuiStudy&count_private=true&show_icons=true&hide_border=true" />
 </p>
- 
 
-**My Favorite Reference Github Site.**
+<!--START_SECTION:Skills & Endorsements-->
+<!--**My Favorite Reference Github Site.**
 
 <ul>
   <li>JavaScript: 
@@ -33,12 +58,12 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
     <img src=https://avatars.githubusercontent.com/u/32578695?u=f0943db68e3a99c6ea27426fd8ae7549483336b5&v=4&s=20 height=20 />
     <img src=https://avatars.githubusercontent.com/u/87615572?u=18754e2bf497bd45471d571b3a67d41f5c31a662&v=4&s=20 height=20 />
   </li>
-</ul>
+</ul>-->
 <!--END_SECTION:Skills & Endorsements-->
 
 
-#### :sparkles: [My followers]
 <!--START_SECTION:followers-->
+<!--#### :sparkles: [My followers]
 <table>
   <tr>
     <td align="center">
@@ -115,31 +140,6 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
     </td>
   </tr>
 </table>
-<!--END_SECTION:followers-->
+--><!--END_SECTION:followers-->
 
 
-<!--START_SECTION:Skills & Endorsements-->
-### Project
-
-#### 1. Conference
-##### Sub [1] <a href="https://github.com/JinhuiStudy/javascript-grapesjs-video-embed-manager-custom">grapes video costom[vimeo]</a>
-##### Sub [2] <a href="https://github.com/JinhuiStudy/javascript-grapesjs-blocks-basic-custom">grapes Basic Block[vimeo]</a>
-
-
-#### 2. Codal
-##### Sub [1] <a href="https://github.com/JinhuiStudy/flutter-project-codal">Flutter</a>
-##### Sub [2] <a href="https://github.com/JinhuiStudy/spring-boot-project-codal">SpringBoot</a>
-##### Sub [3] <a href="https://github.com/JinhuiStudy/react-project-codal">React</a>
-
-
-프로젝트
-[1.Conference]("https://github.com/JinhuiStudy/spring-boot-project-conference")
-
-
-<글 중간>  
-이 부분은 [Google]를 참조하시면 됩니다.  
-<몇 줄 뒤>  
-이 부분도 [Google]를 참조하시고 저 부분은 [Facebook]을 참조하세요.  
-<글 마지막>  
-[Google]: http://www.google.com  
-[Facebook]: http://www.facebook.com  
