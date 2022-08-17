@@ -21,7 +21,7 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 ---
  
 
-### Project
+### Side Project
 
 1. [Conterence](https://github.com/JinhuiStudy/spring-boot-project-conference)
 	1. [Grapes Video[Vimeo] Plugin](https://github.com/JinhuiStudy/javascript-grapesjs-video-embed-manager-custom)
