@@ -21,7 +21,7 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 ---
  
 
-### Side Project
+<!-- ### Side Project
 
 1. [Conterence](https://github.com/JinhuiStudy/spring-boot-project-conference)
 	1. [Grapes Video[Vimeo] Plugin](https://github.com/JinhuiStudy/javascript-grapesjs-video-embed-manager-custom)
@@ -40,7 +40,7 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
     
 ### Other Table of Contents Repository
 1. Flutter 
-   * [GETX](https://github.com/JinhuiStudy/flutter-getx)
+   * [GETX](https://github.com/JinhuiStudy/flutter-getx) -->
 ---
 
 <p>
