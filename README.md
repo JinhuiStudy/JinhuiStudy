@@ -41,12 +41,12 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 ### Other Table of Contents Repository
 1. Flutter 
    * [GETX](https://github.com/JinhuiStudy/flutter-getx) -->
----
+<!-- ---
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JinhuiStudy&count_private=true&show_icons=true&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinhuiStudy&count_private=true&show_icons=true&hide_border=true" />
-</p>
+</p> -->
 
 <!--START_SECTION:Skills & Endorsements-->
 <!--**My Favorite Reference Github Site.**
