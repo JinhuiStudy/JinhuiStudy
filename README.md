@@ -196,16 +196,24 @@ Client Layer   Flutter (iOS/Android) + React (Web)         ← Real-time Dashboa
 
 ---
 
+### `> system_architecture`
+
 <div align="center">
 
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=JinhuiStudy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=818cf8&icon_color=22c55e&text_color=999999&ring_color=6366f1" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JinhuiStudy&theme=tokyonight&hide_border=true&background=0a0a0a&ring=6366f1&fire=22c55e&currStreakLabel=818cf8&sideLabels=999999&dates=555555" height="170" />
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JinhuiStudy&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=818cf8&line=6366f1&point=22c55e&area=true&area_color=6366f1" width="95%" />
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    What I Build                              │
+│                                                             │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐│
+│   │Firmware │───▶│Gateway  │───▶│ Cloud   │───▶│ Client  ││
+│   │nRF52840 │    │Rasp. Pi │    │Kafka    │    │Flutter  ││
+│   │Zephyr C │    │Spring   │    │Timescale│    │React    ││
+│   │UWB/BLE  │    │BLE/MQTT │    │Spring   │    │Mapbox   ││
+│   └─────────┘    └─────────┘    └─────────┘    └─────────┘│
+│                                                             │
+│   ← ±10cm UWB →  ← 100ms →  ← 10K pos/s →  ← Real-time → │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -213,7 +221,16 @@ Client Layer   Flutter (iOS/Android) + React (Web)         ← Real-time Dashboa
 
 <div align="center">
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:818cf8,100:6366f1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=1&section=header" width="100%" />
+
+<br/>
+
+```
+"현재 데이터가 이론을 이긴다."
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:818cf8,100:6366f1&height=100&section=footer" width="100%" />
 
 </div>
