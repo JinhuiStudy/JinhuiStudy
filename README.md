@@ -6,29 +6,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=Full-Stack+%2B+IoT+Engineer;Firmware+to+Cloud+Architecture;8%2B+Years+%C2%B7+Samsung+%C2%B7+KINTEX+%C2%B7+COEX" alt="Typing SVG" /></a>
 
-<br/><br/>
-
-<!-- IDENTITY KEYWORDS -->
-<img src="https://img.shields.io/badge/🔧_펌웨어_엔지니어-nRF52840_·_Zephyr_RTOS_·_UWB_·_BLE_·_RTK_GPS_·_RFID-22c55e?style=for-the-badge&labelColor=0d1117" />
 <br/>
-<img src="https://img.shields.io/badge/☁️_클라우드_아키텍트-Spring_Cloud_MSA_·_Kafka_·_GraalVM_·_Docker-6366f1?style=for-the-badge&labelColor=0d1117" />
-<br/>
-<img src="https://img.shields.io/badge/📱_크로스플랫폼_개발자-Flutter_·_React_·_iOS_·_Android-818cf8?style=for-the-badge&labelColor=0d1117" />
-<br/>
-<img src="https://img.shields.io/badge/🧠_알고리즘_설계자-A*_·_EKF_·_RANSAC_·_CNN-eab308?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
 
 > **센서 칩 위의 펌웨어부터 사용자 손안의 앱까지,**<br/>
 > **제품 하나에 필요한 모든 레이어를 직접 설계하고 구축합니다.**
-
-</div>
-
----
-
-### 🏢 적용처
-
-<div align="center">
 
 **Samsung** · **KINTEX** · **BEXCO** · **COEX** · **Hyundai** · **GS HomePlus** · **Volvo** · **KRRI** · **KTL**
 
@@ -65,21 +46,21 @@ Samsung 산업 현장에 납품한 센티미터 정확도 실시간 위치 추�
 <td width="50%">
 
 **🟣 GrowMaps**<br/>
-KINTEX·BEXCO·COEX 등 대형 전시장에서 운영 중인 실내 지도 플랫폼. A* 경로 탐색, 1,500+ 부스 실시간 렌더링.
+KINTEX·BEXCO·COEX 등 대형 전시장에서 운영 중인 실내 지도 플랫폼. A* 경로 탐색, PostGIS 격자 생성, 1,500+ 부스 실시간 렌더링.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🟡 Space Story + SDK**<br/>
-AR 기반 관광 체험 앱 + UWB/RTK GPS 차량 검사 시스템. 3개 플랫폼 SDK, RFID 태그, AR 게임, Volvo 납품.
+**🟡 Space Story + Volvo**<br/>
+AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UWB SDK, RFID 태그, AR 게임, Volvo Korea 납품.
 
 </td>
 <td width="50%">
 
 **🩷 Ttasoom**<br/>
-영유아 수면 모니터링 IoT 서비스. ESP32-S3 센서 → MQTT → 수면 점수 알고리즘.
+영유아 수면 모니터링 IoT 서비스. ESP32-S3 센서 → MQTT → BSS 수면 점수 알고리즘.
 
 </td>
 </tr>
@@ -89,7 +70,7 @@ AR 기반 관광 체험 앱 + UWB/RTK GPS 차량 검사 시스템. 3개 플랫�
 
 ### 🛠 Tech
 
-<div align="center">
+**Language**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -98,33 +79,63 @@ AR 기반 관광 체험 앱 + UWB/RTK GPS 차량 검사 시스템. 3개 플랫�
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend & MSA**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![GraalVM](https://img.shields.io/badge/GraalVM_Native-E76F00?style=flat-square&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Frontend & Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-<br/>
+![Mapbox GL](https://img.shields.io/badge/Mapbox_GL-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+
+**Data & Streaming**
+
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-<br/>
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white)
+
+**IoT & Embedded**
+
 ![nRF52840](https://img.shields.io/badge/nRF52840-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![BLE](https://img.shields.io/badge/BLE_5.0-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-4A154B?style=flat-square&logoColor=white)
 ![UWB](https://img.shields.io/badge/UWB-003B57?style=flat-square&logoColor=white)
+![BLE 5.0](https://img.shields.io/badge/BLE_5.0-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![RTK GPS](https://img.shields.io/badge/RTK_GPS-4CAF50?style=flat-square&logoColor=white)
 ![RFID](https://img.shields.io/badge/RFID-FF6600?style=flat-square&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-</div>
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Algorithm**
+
+![A*](https://img.shields.io/badge/A*_Pathfinding-FF6B6B?style=flat-square&logoColor=white)
+![EKF](https://img.shields.io/badge/EKF_Fusion-845EF7?style=flat-square&logoColor=white)
+![RANSAC](https://img.shields.io/badge/RANSAC-20C997?style=flat-square&logoColor=white)
+![MDS](https://img.shields.io/badge/MDS_Optimization-339AF0?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE_Density-FD7E14?style=flat-square&logoColor=white)
 
 ---
 
