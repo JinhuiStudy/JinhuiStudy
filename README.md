@@ -36,15 +36,19 @@
 
 ---
 
-### 🎯 What I Do
+## 💡 Engineering Philosophy
 
-| 영역 | 기술 | 대표 성과 |
-|:---:|------|----------|
-| **⚡ Edge** | `C` `Zephyr RTOS` `nRF52840` `DWM1001` `ESP32` | UWB ±10cm 실시간 측위, 13종 BLE 프로토콜 설계 |
-| **🔗 Gateway** | `Spring Boot` `BLE 5.0` `MQTT` `H2 DB` | 크로스플랫폼 BLE(Linux/Win/macOS), 100ms 배치 |
-| **☁️ Cloud** | `Kafka` `TimescaleDB` `Spring Cloud` `GraalVM` | 16토픽 파이프라인, 11개 Analytics, Native 126MB |
-| **📱 Client** | `Flutter` `React` `Mapbox GL` `Three.js` | 1,500+ 부스 렌더링, 4개국어, 키오스크 O2O |
-| **🧠 Algorithm** | `A*` `EKF` `RANSAC` `WLS` `MDS` `TensorFlow` | 경로탐색, 센서융합, CAPTCHA CNN 95%+ |
+> **"현재 데이터가 이론을 이긴다."**
+
+저는 **가설을 코드로 검증하고, 데이터로 의사결정하는 엔지니어**입니다.
+
+- 🧪 **Test-Driven Decision** — ESP32 게이트웨이를 8커밋 만에 폐기하고 Raspberry Pi로 전환한 이유는 현장 BLE+WiFi 안정성 데이터였습니다
+- 📊 **Data over Opinion** — EKF를 도입한 뒤 LPF를 제거한 근거는 실시간성 벤치마크 수치였습니다
+- 🔁 **Iterate Relentlessly** — 20개 이상의 프로덕트를 1인 개발한 경험은 "빠르게 만들고, 빠르게 검증하고, 과감히 버리는" 사이클에서 나왔습니다
+- 🏗️ **Full-Stack Ownership** — nRF52840 펌웨어의 바이트 레벨 프로토콜부터 Kafka 파이프라인, Flutter 대시보드까지 — 한 사람이 전체를 이해해야 진짜 좋은 시스템이 나옵니다
+
+8년간 **하드웨어에서 클라우드까지** 모든 레이어를 직접 설계하고 구현해왔습니다.
+단순히 코드를 작성하는 것이 아니라, **문제를 정의하고 시스템을 설계하는 것**이 제 일입니다.
 
 ---
 
@@ -55,21 +59,13 @@
 <td width="50%">
 
 **🟢 Q2 Industrial RTLS**<br/>
-<sub>Samsung 적용 · UWB ±10cm · 3-Tier Architecture</sub>
-
-`nRF52840` `Kafka` `TimescaleDB` `Flutter` `GraalVM`
-
-3개 상태머신 펌웨어 → BLE 13프레임 → Kafka 16토픽 → 11개 Analytics
+Samsung 산업 현장에 납품한 센티미터 정확도 실시간 위치 추적 시스템. 하드웨어 펌웨어부터 클라우드 대시보드까지 18개 레포지토리 풀스택 개발.
 
 </td>
 <td width="50%">
 
 **🟣 GrowMaps**<br/>
-<sub>KINTEX/BEXCO · 1,500+ 부스 · 실내 경로 안내</sub>
-
-`React` `Mapbox` `Spring Boot` `A*` `Algolia`
-
-A* 경로탐색 + Straight Skeleton 그리드 + 112 JPA 엔티티 + 4개국어
+KINTEX·BEXCO·COEX 등 대형 전시장에서 운영 중인 실내 지도 플랫폼. A* 경로 탐색, 1,500+ 부스 실시간 렌더링.
 
 </td>
 </tr>
@@ -77,42 +73,13 @@ A* 경로탐색 + Straight Skeleton 그리드 + 112 JPA 엔티티 + 4개국어
 <td width="50%">
 
 **🟡 Space Story + SDK**<br/>
-<sub>현대/홈플러스 · AR 관광 · 3플랫폼 SDK</sub>
-
-`Swift` `Kotlin` `Flutter` `ARKit` `BLE` `UWB`
-
-iOS(SPM) + Android(Maven) + Flutter(MethodChannel) UWB SDK
+AR 기반 관광 체험 앱. 3개 플랫폼 SDK, BLE 미션, AR 게임.
 
 </td>
 <td width="50%">
 
-**🩷 Crypto Auto Trading**<br/>
-<sub>₩20억+ 실 자금 · 24/7 무장애 운영</sub>
-
-`Spring Boot` `WebSocket` `Bybit API`
-
-RSI/MACD/볼린저 전략 + 4레이어 리스크 + 13가지 긴급 청산
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔵 Jadu MSA Commerce**<br/>
-<sub>Spring Cloud 마이크로서비스</sub>
-
-`Gateway` `Eureka` `RabbitMQ` `OpenSearch` `Prometheus`
-
-Saga 패턴 분산 트랜잭션 + 이벤트 드리븐
-
-</td>
-<td width="50%">
-
-**🟠 + More**<br/>
-<sub>IoT · Safety · Legal · ERP</sub>
-
-**따숨** ESP32 헬스케어 · **Guard** RANSAC+WLS+EKF<br/>
-**법쇼** CNN CAPTCHA 95%+ · **KTL** 공공기관 ERP
+**🩷 Ttasoom**<br/>
+영유아 수면 모니터링 IoT 서비스. ESP32-S3 센서 → MQTT → 수면 점수 알고리즘.
 
 </td>
 </tr>
@@ -170,8 +137,6 @@ Saga 패턴 분산 트랜잭션 + 이벤트 드리븐
 ---
 
 <div align="center">
-
-*"현재 데이터가 이론을 이긴다."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:818cf8,100:6366f1&height=100&section=footer" width="100%" />
 
