@@ -11,7 +11,7 @@
 <!-- IDENTITY KEYWORDS -->
 <img src="https://img.shields.io/badge/🔧_펌웨어_엔지니어-nRF52840_·_Zephyr_RTOS_·_UWB_·_BLE_·_RTK_GPS_·_RFID-22c55e?style=for-the-badge&labelColor=0d1117" />
 <br/>
-<img src="https://img.shields.io/badge/☁️_클라우드_아키텍트-Spring_Boot_·_Kafka_·_TimescaleDB-6366f1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/☁️_클라우드_아키텍트-Spring_Cloud_MSA_·_Kafka_·_GraalVM_·_Docker-6366f1?style=for-the-badge&labelColor=0d1117" />
 <br/>
 <img src="https://img.shields.io/badge/📱_크로스플랫폼_개발자-Flutter_·_React_·_iOS_·_Android-818cf8?style=for-the-badge&labelColor=0d1117" />
 <br/>
