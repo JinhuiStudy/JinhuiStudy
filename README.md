@@ -4,12 +4,12 @@
 
 # 박진희 · Jinhui Park
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=Full-Stack+%2B+IoT+Engineer;Firmware+to+Cloud+Architecture;8%2B+Years+%C2%B7+Samsung+%C2%B7+KINTEX+%C2%B7+COEX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&repeat=true&random=false&width=560&height=30&lines=Spring+Boot+Backend+Developer;Flutter+%2B+React+Product+Developer;8%2B+Years+%C2%B7+ERP+%C2%B7+Maps+%C2%B7+Operations" alt="Typing SVG" /></a>
 
 <br/>
 
-> **센서 칩 위의 펌웨어부터 사용자 손안의 앱까지,**<br/>
-> **제품 하나에 필요한 모든 레이어를 직접 설계하고 구축합니다.**
+> **Spring Boot 기반 백엔드와 Flutter/React 클라이언트를 함께 이해하고,**<br/>
+> **운영 가능한 서비스 구조를 끝까지 만드는 개발자입니다.**
 
 **Samsung** · **KINTEX** · **BEXCO** · **COEX** · **Hyundai** · **GS HomePlus** · **Volvo** · **KRRI** · **Busan Science Museum** · **KTL**
 
@@ -25,11 +25,11 @@
 
 - 🧪 **Test-Driven Decision** — ESP32 게이트웨이를 8커밋 만에 폐기하고 Raspberry Pi로 전환한 이유는 현장 BLE+WiFi 안정성 데이터였습니다
 - 📊 **Data over Opinion** — EKF를 도입한 뒤 LPF를 제거한 근거는 실시간성 벤치마크 수치였습니다
-- 🔁 **Iterate Relentlessly** — 20개 이상의 프로덕트를 출시한 경험은 "빠르게 만들고, 빠르게 검증하고, 과감히 버리는" 사이클에서 나왔습니다
+- 🔁 **Iterate Relentlessly** — 25개 이상의 프로덕트를 출시한 경험은 "빠르게 만들고, 빠르게 검증하고, 과감히 버리는" 사이클에서 나왔습니다
 - 🏗️ **Full-Stack Ownership** — nRF52840 펌웨어의 바이트 레벨 프로토콜부터 Kafka 파이프라인, Flutter 대시보드까지 — 한 사람이 전체를 이해해야 진짜 좋은 시스템이 나옵니다
 
-8년간 **하드웨어에서 클라우드까지** 모든 레이어를 직접 설계하고 구현해왔습니다.
-단순히 코드를 작성하는 것이 아니라, **문제를 정의하고 시스템을 설계하는 것**이 제 일입니다.
+8년간 **Spring Boot API, React/Flutter 클라이언트, 데이터베이스, AWS/Docker 배포 환경**을 함께 다뤄왔습니다.
+단순히 코드를 작성하는 것이 아니라, **데이터 정합성, 인증/권한, 배포 운영까지 고려해 서비스가 실제로 굴러가게 만드는 것**이 제 일입니다.
 
 ---
 
@@ -174,9 +174,9 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td width="15%"><h3>🟢</h3></td>
 <td>
 
-**Freegrow Enterprise** · 풀스택 + IoT 엔지니어 · `2024.02 ~ 재직중`<br/>
+**Freegrow Enterprise** · 풀스택 개발자 / 백엔드·앱 개발 / 개발PM · `2024.05 ~ 2026.04`<br/>
 부산 소재 B2B SaaS 위치 기반 서비스 기업. Samsung 산업용 RTLS 납품, KINTEX·BEXCO·COEX 실내 지도 운영, Volvo Korea 차량 검사 시스템 납품.<br/>
-**역할**: 전 프로젝트 아키텍처 설계 + 풀스택 개발. nRF52840 펌웨어, Spring Boot 서버, Kafka 파이프라인, Flutter/React 클라이언트까지 전 레이어 담당.
+**역할**: Spring Boot API 서버, React/Flutter 클라이언트, PostgreSQL/PostGIS 데이터 모델, AWS EC2/Docker 배포 환경을 함께 다루며 전시장 실내지도 플랫폼과 현장 운영 시스템 개발.
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td><h3>🟡</h3></td>
 <td>
 
-**Nomadlab** · 개발팀 팀장 · `2023.02 ~ 2024.02`<br/>
+**Nomadlab** · Flutter 앱 개발 / 팀 리드 · `2023.02 ~ 2024.02`<br/>
 부산 소재 모바일 앱 개발사. 크로스플랫폼 앱 전문.<br/>
 **역할**: 5인 개발팀 리드. Flutter 아키텍처 표준화, Git Flow 기반 코드 리뷰 프로세스 도입, CI/CD 파이프라인 구축, AWS 인프라 설계.
 
@@ -194,9 +194,9 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td><h3>🟠</h3></td>
 <td>
 
-**로앤피플 (Law&People)** · 개발부 부장 · `2020.08 ~ 2022.12`<br/>
+**로앤피플 (Law&People)** · 백엔드·풀스택 개발 / 팀 리드 · `2020.08 ~ 2022.12`<br/>
 부산 소재 법률 테크 스타트업. 법률 서비스 플랫폼 '법쇼' 운영.<br/>
-**역할**: 전체 시스템 설계 총괄. Spring Cloud MSA 기반 리워드 커머스 구축, TensorFlow CNN CAPTCHA 인식(95%+), Bybit API 연동 20억원+ 자동투자 시스템, 대법원 크롤링 일 10,000건+.
+**역할**: 법률 서비스 플랫폼의 Spring Boot API, React 관리자, Flutter/Kotlin 앱, 결제·전자계약·문서 관리 기능 개발. Spring Cloud MSA 기반 리워드 커머스 구축과 데이터 수집 자동화에도 참여.
 
 </td>
 </tr>
