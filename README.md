@@ -171,7 +171,17 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 
 <table>
 <tr>
-<td width="15%"><h3>🟢</h3></td>
+<td width="15%"><h3>🔵</h3></td>
+<td>
+
+**KMS (케이엠에스대한민국산지직송)** · 개발파트 리드 (풀스택) · `2026.06 ~ 2026.10`<br/>
+부산 소재 농수산 산지직송 커머스·ERP 기업. '함께팜' 서비스 운영.<br/>
+**역할**: 함께팜 ERP·커머스 백엔드(Spring Boot·PostgreSQL)와 판매자 정산·결제 연동, Flutter 고객·판매자 앱, Next.js 어드민 개발을 이끌고, Prometheus·Loki·Grafana 통합 관측 플랫폼과 5개 서비스 blue-green 무중단 배포, AI 상담 RAG 서비스를 구축.
+
+</td>
+</tr>
+<tr>
+<td><h3>🟢</h3></td>
 <td>
 
 **Freegrow Enterprise** · 풀스택 개발자 / 백엔드·앱 개발 / 개발PM · `2024.05 ~ 2026.04`<br/>
