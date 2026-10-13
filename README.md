@@ -19,16 +19,16 @@
 
 ## 💡 Engineering Philosophy
 
-> **"현재 데이터가 이론을 이긴다."**
+> **"추측보다 측정한 데이터를 믿습니다."**
 
 저는 **가설을 코드로 검증하고, 데이터로 의사결정하는 엔지니어**입니다.
 
-- 🧪 **Test-Driven Decision** — ESP32 게이트웨이를 8커밋 만에 폐기하고 Raspberry Pi로 전환한 이유는 현장 BLE+WiFi 안정성 데이터였습니다
+- 🧪 **Test-Driven Decision** — ESP32 게이트웨이를 Raspberry Pi로 전환한 근거는 현장에서 직접 확인한 BLE+WiFi 안정성 데이터였습니다
 - 📊 **Data over Opinion** — EKF를 도입한 뒤 LPF를 제거한 근거는 실시간성 벤치마크 수치였습니다
 - 🔁 **Iterate Relentlessly** — 25개 이상의 프로덕트를 출시한 경험은 "빠르게 만들고, 빠르게 검증하고, 과감히 버리는" 사이클에서 나왔습니다
-- 🏗️ **Full-Stack Ownership** — nRF52840 펌웨어의 바이트 레벨 프로토콜부터 Kafka 파이프라인, Flutter 대시보드까지 — 한 사람이 전체를 이해해야 진짜 좋은 시스템이 나옵니다
+- 🏗️ **Full-Stack Ownership** — nRF52840 펌웨어의 바이트 레벨 프로토콜부터 Kafka 파이프라인, Flutter 대시보드까지 — 레이어 전체를 이해하고 설계해야 좋은 시스템이 나온다고 믿습니다
 
-8년간 **Spring Boot API, React/Flutter 클라이언트, 데이터베이스, AWS/Docker 배포 환경**을 함께 다뤄왔습니다.
+8년 9개월 동안 **Spring Boot API, React/Flutter 클라이언트, 데이터베이스, AWS/Docker 배포 환경**을 함께 다뤄왔습니다.
 단순히 코드를 작성하는 것이 아니라, **데이터 정합성, 인증/권한, 배포 운영까지 고려해 서비스가 실제로 굴러가게 만드는 것**이 제 일입니다.
 
 ---
@@ -40,7 +40,7 @@
 <td width="50%">
 
 **🟢 Q2 Industrial RTLS**<br/>
-Samsung 산업 현장에 납품한 센티미터 정확도 실시간 위치 추적 시스템. nRF52840 펌웨어, BLE/UWB 프로토콜, Kafka 파이프라인, Flutter 대시보드까지 18개 레포지토리.
+Samsung 산업 현장에 적용한 센티미터 정확도 실시간 위치 추적 시스템. 서버·데이터 파이프라인(MQTT·Kafka·TimescaleDB) 구조 설계를 주도하고 nRF52840 펌웨어·Flutter 대시보드 연동을 조율했습니다.
 
 </td>
 <td width="50%">
@@ -60,7 +60,7 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td width="50%">
 
 **🩷 Ttasoom**<br/>
-영유아 수면 모니터링 IoT 서비스. ESP32-S3 센서 → MQTT → BSS 수면 점수 알고리즘.
+영유아 수면 모니터링 IoT 서비스. ESP32 센서 → MQTT → BSS 수면 점수 알고리즘.
 
 </td>
 </tr>
@@ -184,9 +184,9 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td><h3>🟢</h3></td>
 <td>
 
-**Freegrow Enterprise** · 풀스택 개발자 / 백엔드·앱 개발 / 개발PM · `2024.05 ~ 2026.04`<br/>
+**Freegrow Enterprise (프리그로우)** · 개발팀 총괄 / 개발PM · 풀스택(백엔드·앱) · `2024.05 ~ 2026.04`<br/>
 부산 소재 B2B SaaS 위치 기반 서비스 기업. Samsung 산업용 RTLS 납품, KINTEX·BEXCO·COEX 실내 지도 운영, Volvo Korea 차량 검사 시스템 납품.<br/>
-**역할**: Spring Boot API 서버, React/Flutter 클라이언트, PostgreSQL/PostGIS 데이터 모델, AWS EC2/Docker 배포 환경을 함께 다루며 전시장 실내지도 플랫폼과 현장 운영 시스템 개발.
+**역할**: 개발팀을 총괄하며 Spring Boot API 서버, React/Flutter 클라이언트, PostgreSQL/PostGIS 데이터 모델, AWS EC2/Docker 배포 환경을 함께 다루고 전시장 실내지도 플랫폼과 현장 운영 시스템 개발.
 
 </td>
 </tr>
@@ -194,9 +194,9 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td><h3>🟡</h3></td>
 <td>
 
-**Nomadlab** · Flutter 앱 개발 / 팀 리드 · `2023.02 ~ 2024.02`<br/>
+**Nomadlab (노마드랩)** · 개발팀장 / 개발PM · Flutter 앱 · `2023.02 ~ 2024.03`<br/>
 부산 소재 모바일 앱 개발사. 크로스플랫폼 앱 전문.<br/>
-**역할**: 5인 개발팀 리드. Flutter 아키텍처 표준화, Git Flow 기반 코드 리뷰 프로세스 도입, CI/CD 파이프라인 구축, AWS 인프라 설계.
+**역할**: 5인 개발팀을 이끄는 개발팀장. Flutter 아키텍처 표준화, Git Flow 기반 코드 리뷰 프로세스 도입, CI/CD 파이프라인 구축, AWS 인프라 설계.
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td><h3>🟠</h3></td>
 <td>
 
-**로앤피플 (Law&People)** · 백엔드·풀스택 개발 / 팀 리드 · `2020.08 ~ 2022.12`<br/>
+**로앤피플 (Law&People)** · 개발팀장 / 개발PM · 백엔드·풀스택 · `2020.08 ~ 2023.01`<br/>
 부산 소재 법률 테크 스타트업. 법률 서비스 플랫폼 '법쇼' 운영.<br/>
 **역할**: 법률 서비스 플랫폼의 Spring Boot API, React 관리자, Flutter/Kotlin 앱, 결제·전자계약·문서 관리 기능 개발. Spring Cloud MSA 기반 리워드 커머스 구축과 데이터 수집 자동화에도 참여.
 
@@ -214,9 +214,18 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 <td><h3>🔴</h3></td>
 <td>
 
-**두레소프트 (DureSoft)** · 개발부 사원 · `2017.12 ~ 2020.05`<br/>
+**두레소프트 (DureSoft)** · 백엔드/서버 개발 · `2018.01 ~ 2020.05`<br/>
 경남 소재 SI기업. 공공기관 정보시스템 전문. 고객사: 한국산업기술시험원(KTL).<br/>
 **역할**: 통합정보시스템(ERP) 재무회계/인사/급여 전 모듈 개발. 국세청 전자신고 4종 구축, 외부 금융기관 연계(E-branch/WebCash), 공무직 제도 전산화, 과제관리(EZ-Baro/RCMS) 연계.
+
+</td>
+</tr>
+<tr>
+<td><h3>⚪</h3></td>
+<td>
+
+**앤시정보기술 (Ansi)** · 백엔드/서버 개발 · `2017.09 ~ 2017.11`<br/>
+**역할**: Spring·Oracle·JSP 기반 부산관광택시 예약 시스템 개발, 창원대학교·벡스코 홈페이지 유지보수.
 
 </td>
 </tr>
