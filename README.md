@@ -167,6 +167,24 @@ AR 기반 관광 체험 앱 + RTK GPS 차량 검사 시스템. 3개 플랫폼 UW
 
 ---
 
+### ☁️ Google Cloud Skills — 36 Badges
+
+<a href="https://www.skills.google/public_profiles/eec186a9-d7c1-4452-a71f-61e33110cdac"><img src="https://img.shields.io/badge/Google_Skills-36_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/League-Gold-F4B400?style=for-the-badge" />
+
+Google Cloud 실습 랩 기반 배지 36개 (2026.08 ~ 2026.09) · [공개 프로필에서 확인](https://www.skills.google/public_profiles/eec186a9-d7c1-4452-a71f-61e33110cdac)
+
+| 분야 | 배지 |
+|---|---|
+| **생성형 AI · LLM · 에이전트** (12) | Deploy Multi-Agent Architectures · Implement Multimodal Vector Search with BigQuery · Introduction to Large Language Models · Introduction to Generative AI · Transformer Models and BERT Model · Attention Mechanism · Encoder-Decoder Architecture · Introduction to Image Generation · Generative AI for Healthcare · Use Machine Learning APIs on Google Cloud · Analyze Images with the Cloud Vision API · Analyze Sentiment with Natural Language API |
+| **인프라 · 운영 · IaC** (8) | Build Infrastructure with Terraform on Google Cloud · Managing Cloud Infrastructure with Terraform · Manage Kubernetes in Google Cloud · Monitor Environments with Google Cloud Managed Service for Prometheus · Scaling with Google Cloud Operations · Implement Event-Driven Messaging and Automation Workflows · Use APIs to Work with Cloud Storage · Google Cloud Computing Foundations: Cloud Computing Fundamentals |
+| **데이터 · DB** (6) | Derive Insights from BigQuery Data · Perform Predictive Data Analysis in BigQuery · Streaming Analytics into BigQuery · Build a Data Mesh with Knowledge Catalog · Create and Manage Cloud Spanner Instances · MySQL to Cloud Spanner |
+| **백엔드** (1) | Building Scalable Java Microservices with Spring Boot and Spring Cloud |
+| **Workspace · 자동화** (6) | Develop with Apps Script and AppSheet · Implement Cloud Collaboration and Productivity Workflows · Google Workspace with Gemini: Foundations of Your AI Workflow · Gemini in Google Docs · Gemini in Gmail · Gemini in Google Drive |
+| **자격증 준비** (3) | Build a Certification Study Guide: ACE · PCSE · PCNE Exam Prep |
+
+---
+
 ### 📍 Career
 
 <table>
